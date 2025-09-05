@@ -1,0 +1,140 @@
+
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+
+# **INTRODUÇÃO**
+## **Aspectos Gerais**
+
+
+O Enade é atualmente, o único instrumento oficial que avalia os resultados do
+processo de ensino aprendizagem e tem um peso significativo no desempenho das Instituições
+de Nível Superior no Brasil(INEP, 2017).
+
+O objetivo do Enade é o acompanhamento do processo de aprendizagem e do
+desempenho acadêmico dos estudantes em relação aos conteúdos programáticos previstos
+nas diretrizes curriculares do respectivo curso de graduação, suas habilidades para ajusta-
+mento às exigências decorrentes da evolução do conhecimento e suas competências para
+compreender temas exteriores ao âmbito específico de sua profissão, ligados a realidade
+brasileira e mundial e a outras ´areas do conhecimento(INEP, 2017).
+
+No Brasil, alguns trabalhos abordaram a Teoria da Resposta ao Item (TRI) para
+avaliação de proficiência com dados do ENADE. Oliveira (2006) utilizou a TRI para
+proceder a uma análise das propriedades psicométricas da prova do ENADE de 2004,
+aplicada aos alunos dos cursos de medicina.
+
+Nogueira (2008) aplicou a TRI para avaliar as questões da prova de formação
+geral do ENADE de 2004 e 2005, a fim de estimar a proficiência dos estudantes e o ajuste
+dos itens ao modelo de Rasch.
+
+Primi et al. (2009) aplicaram a TRI a dados do ENADE de Psicologia, de 2006, para
+determinar os pontos de corte, formando grupos de competências requeridas para a resolução
+de itens, evidenciando que, de maneira geral, os estudantes concluintes concentram-se na
+competência mínima. Primi, Hutz e Silva (2011) realizaram análise psicométrica dos itens
+empregando os modelos Rasch e de créditos parciais na prova do ENADE de Psicologia de
+2006.
+
+Por sua vez, Coelho (2014) utilizou três conjuntos de dados, dentre eles respostas
+do curso de Estatística do ENADE de 2009 via Teoria da Resposta ao Item.
+Tamb´em Coelho, Ribeiro Junior e Bonat (2014) analisaram respostas do ENADE
+2009 de Estatística via Teoria da Resposta ao Item.
+
+Conforme Scher et al. (2014) analisaram a prova do ENADE de 2009 do curso de
+Administração por meio da TRI. Lopes e Vendramini (2015) avaliaram as propriedades
+psicométricas da prova de Pedagogia do ENADE, aplicada no ano de 2005, com o modelo
+de Rasch da TRI.
+
+Camargo et al. (2016) mensuraram a proficiência dos estudantes do curso de
+Ciências Contábeis no ENADE utilizando TRI, demonstrando que os itens da prova
+representaram um alto grau de dificuldade para os estudantes e, em geral, os estudantes
+apresentaram proficiências muito baixas.
+
+Figueiró e Mozzaquatro (2017) analisaram os microdados do Enade de 2014, para
+avaliar o desempenho dos estudantes do curso de Ciência da Computação do Estado do Rio
+Grande do Sul, bem como foram feitas comparações para agrupar as instituições públicas
+e privadas do mesmo estado de acordo com seus desempenhos
+
+
+Araujo(2019), desenvolveu uma ferramenta web com dados de todos os cursos do
+Enade 2017, utilizando algoritimo de machine learning, para classificar as notas dos alunos
+por desempenho.
+
+Charão et al. (2020) avaliaram o desempenhos dos alunos de Ciência da Computação da UFSM, na prova do Enade (2005 a 2017), explorando os resultados para subsidiar e reunir contribuições para a revisão do projeto pedagógico do curso. 
+
+Cunha et al. (2021) propuseram uma ferramenta para análise automática com os microdados do Enade(2005 a 2017) para o curso de Ciência da Computação, tornando possível a geração de resultados para qualquer curso de computação do País, via linguagem de programação Python.
+
+No presente estudo, busca-se, modelar a probabilidade de acertos das questões
+(itens) que compõem a prova, considerando-se a proficiência do estudante a partir da
+dificuldade e capacidade de discriminação dos itens e da probabilidade de acerto casual. Por
+permitir uma avaliação do conhecimento efetivamente dominado pelo estudante em cada
+item, esta iniciativa possibilita intervenções e ações pontuais de correção no processo de
+ensino-aprendizagem, de modo a identificar lacunas que compreendam possíveis deficiências
+de aprendizagem.
+
+Espera-se, portanto, contribuir com a área de educação em diversos cursos com a
+busca de instrumentos alternativos para aferição da situação atual do ensino superior no
+Par´a, consubstanciada na avaliação do desempenho acadêmico dos estudantes (proficiência),
+de modo a avaliar, detalhadamente, a situação encontrada em cada tipo de conhecimento
+que integra os componentes dos cursos em análise.
+
+
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+
+## **Objetivo Geral**
+
+
+Mensurar o Desenpenho(proficiêcia) dos Estudantes do Curso de Sistemas de
+Informação na Prova do ENADE (2005 A 2021), por meio da Teoria da Resposta ao Item
+(TRI) e Machine Learning.
+
+
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+
+
+## **Objetivos Específicos**
+
+
+- Identificar qual o conhecimento especificamente em Computação, dominado pelos alunos que participaram da avaliação;
+- Comparar a dificuldade da prova em relação ao conhecimento(proficiência) do grupo de estudantes;
+- Comparar os resultados do ENADE do curso de graduação em computação da UFPA com os resultados da média Nacional dos cursos do Brasil;
+- Discutir as contribuições da Avaliação em Larga Escala para o processo de formação dos estudantes dos cursos de graduação da UFPA.
+
+
+
+
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+
+
+
+
+
+
+
+
+
+
+

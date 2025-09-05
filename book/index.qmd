@@ -1,0 +1,35 @@
+
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+
+
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+# Prefácio {.unnumbered}
+
+---
+
+Este relatório foi planejado para gerar informações e contribuir para um melhor planejamento das Unidades Educacionais(centros DE Ensino Superior, faculdades e universidades), visando à melhoria de desempenho dos estudantes nas edições futuras do ENADE. Os conteúdos e resultados são oriundos dos documentos oficiais constantes nos microdados divulgados pelo Inep, que podem ser baixados do endereço (INEP, 2018).
+
+
+
+No presente estudo, busca-se, modelar a probabilidade de acertos das questões (itens) que compõem a prova, considerando-se a proficiência do estudante a partir da dificuldade e capacidade de discriminação dos itens e da probabilidade de acerto casual. Por permitir uma avaliação do conhecimento efetivamente dominado pelo estudante em cada item, esta iniciativa possibilita intervenções e ações pontuais de correção no processo de ensino-aprendizagem, de modo a identificar lacunas que compreendam possíveis deficiências de aprendizagem.
+
+
+
+Espera-se, portanto, contribuir com a área de educação em diversos cursos com a busca de instrumentos alternativos para aferição da situação atual do ensino superior no Pará, consubstanciada na avaliação do desempenho acadêmico dos estudantes (proficiência), de modo a avaliar, detalhadamente, a situação encontrada em cada tipo de conhecimento que integra os componentes dos cursos em análise.
+
+---
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::

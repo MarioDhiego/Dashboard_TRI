@@ -1,0 +1,58 @@
+
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+```
+
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+  
+  
+# **ENADE**
+## **Aspectos Gerais**
+  
+  O Exame Nacional de Desempenho dos Estudantes (ENADE) é um dos pilares da
+avaliação do Sistema Nacional de Avaliação da Educação Superior (SINAES), criado pela
+Lei nº 10.861, de 14 de abril de 2004. Além do ENADE, os processos de avaliação de Cursos
+de Graduação e de Avaliação Institucional constituem o Tripé avaliativo do SINAES, os
+resultados desses instrumentos avaliativos, reunidos, permitem conhecer, em profundidade,
+o modo de funcionamento e a qualidade dos cursos e instituições de Educação Superior
+(IES) de todo o Brasil.
+
+O ENADE é uma prova aplicada anualmente aos alunos (ingressantes e concluintes)
+de cursos de graduação, em áreas definidas pelo Minist´erio da Educação e é realizado
+pelo INEP. O objetivo do ENADE é avaliar o desempenho dos estudantes com relação
+aos conte´udos program´aticos das diretrizes curriculares dos cursos de graduação e o
+desenvolvimento de competências e habilidades necessárias à formação geral e profissional.
+
+A Prova do ENADE (2017), com duração total de 4 (quatro) horas, apresentou
+um componente de avaliação na Formação Geral (FG), comum aos cursos de todas as
+àreas e um Componente Específico (CE) de Cada Area. O ENADE foi operacionalizado
+por meio de uma prova, do Questionário de Percepção sobre a prova e o Questionário do
+Estudante.
+
+
+
+
+
+
+
+
+
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+
+
+
+
+
+
+

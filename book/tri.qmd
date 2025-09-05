@@ -1,0 +1,188 @@
+
+
+```{=html}
+<style>
+  body{text-align: justify}
+</style>
+  ```
+
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+::::
+  
+  
+# **TRI**
+## **Aspectos Históricos da TRI**
+
+
+A Teoria de Resposta ao Item foi sendo desenvolvida aos poucos desde os anos 1950 por vários autores, embora suas raízes remontem há mais de uma década anterior.\vskip0.3cm
+
+Dentre os percursores se encontram os trabalhos de Richar(1936), comparando os parâmetros dos itens obtidos pela Teoria Clássica da Psicometria com os moldes que hoje usam a TRI; os trabalhos de Lawley(1943, 1944), indicando alguns métodos para estimar os parâmetros dos itens, os quais se afastam da teoria clássica e os trabalhos de Tucker(1946), que parece ter sido o primeiro a utilizar a expressão curva característica do item (ICC), sendo um conceito chava na TRI. \vskip0.3cm
+
+
+Também deve ser mensionada a contribuição de Lazersfeld(1950), que introduziu o conceito de traço latente, ainda que no contexto da medida das atitudes, conceito que se constitui num parâmetro importante da nova TRI.
+\vskip0.3cm
+
+%Os primeiros modelos mais teóricos de resposta ao item surgiram na década de %50, e eram modelos em que se considerava que uma única habilidade, de um único %grupo, estava sendo medida por um teste onde os itens eram corrigidos de %maneira dicotômica. Estes modelos foram primeiramente desenvolvidos na forma %de uma função ogiva normal e, depois, foram descritos para uma forma %matemática mais conveniente, e que vem sendo usada até então: a logística %(ANDRADE et al., 2000).\vskip0.3cm
+
+
+Entretanto, o responsável mais direto que deu origem a TRI moderna é Frederic Lord(1952, 1953), o primeiro a desenvolver o modelo unidimensional de 2 e 3 parâmetros, baseado na distribuição normal acumulada (ogiva normal). Posteriormente, Birnbaum (1968) substituiu, em ambos os modelos, a função ogiva normal pela função logística, matematicamente mais conveniente, pois é uma função explícita dos parâmetros do item e de habilidade e não envolve integração.\vskip0.3cm
+
+Na Dimanarca o psicometrista, Georg Rasch (1960) propôs o modelo unidimensional de 1 parâmetro,
+expresso também como modelo de ogiva normal e, também mais tarde descrito
+por um modelo logístico por Wright (1968). \vskip0.3cm
+
+
+Samegima (1969, 1972) propôs o modelo de resposta gradual com o objetivo de
+obter mais informação das respostas dos indivíduos do que simplesmente se
+eles deram respostas corretas ou incorretas aos itens, ou seja, elaborou modelos para tratar respostas politômicas e mesmo para dados contínuos.\vskip0.3cm
+
+
+Bock \& Zimowski (1997) introduziram os modelos logísticos
+de 1, 2 e 3 parâmetros para duas ou mais populações de respondentes.\vskip0.3cm
+
+
+Em 1970, Bock \& Lieberman introduziram o método da máxima verossimilhança marginal para a estimação dos parâmetros em duas etapas. Na primeira etapa estimam-se os parâmetros
+dos itens, assumindo-se uma certa distribuição para as habilidades. Na segunda etapa, assumindo os parâmetros dos itens conhecidos, estimam-se as habilidades.\vskip0.3cm
+
+
+Nas últimas décadas, a TRI vem tornando-se a técnica predominante no
+campo de testes em vários países. Aqui no Brasil, a TRI foi usada pela primeira
+vez em 1995 na análise dos dados do Sistema Nacional de Ensino Básico -
+SAEB. A introdução da TRI permitiu que os desempenhos de alunos de 4a.
+e 8a. séries do Ensino Fundamental e de 3a. série do Ensino Fundamental
+pudessem ser comparados e colocados em uma escala única de conhecimento.\vskip0.3cm
+
+
+## **Conceitos Básicos da TRI**
+
+
+A Teoria da Resposta ao Item(TRI) é um conjunto de modelos matemáticos que procuram representar a probabilidade de um indivíduo dar uma certa resposta a um item como função dos parâmetros do item e da habilidade (ou habilidades) do respondente. Essa
+relação é sempre expressa de tal forma que quanto maior a habilidade, maior
+a probabilidade de acerto no item (ANDRADE et al., 2000).\vskip0.3cm 
+
+
+A mensuração do desempenho foi desenvolvida por meio da Teoria da Resposta ao Item em que foi construída uma escala para avaliação dos níveis de proficiência dos alunos no Enade(205 a 2017). Nessa forma de mensuração, todos os itens que compõem o instrumento de avaliação (prova) são colocados em uma mesma escala de medida da proficiência. Por meio dessa escala, foi possível posicionar todos os itens que compuseram a prova em níveis âncora para a realização de interpretações acerca do desempenho requerido no exame.\vskip0.3cm
+
+Os vários Modelos da TRI propostos pela literatura dependem fundamentalmente de alguns fatores(ANDRADE et al, 2000):\vskip0.3cm
+
+
+- Natureza do Item: Dicotômico e Não Dicotômico;
+- Nº de Populações Envolvidas: Apenas Uma ou Mais de Uma; 
+- Nº de Traços Latentes que está sendo medida: Apenas um ou Mais de Um.
+
+
+
+
+## **Modelo Logístico de 3-Parâmetros (3PL)**
+
+Neste estudo, é utilizado um modelo unidimensional, representado pelo traço latente \textbf{Conhecimento em Curso de Graduação}, considera-se uma única população, isto é, os alunos de Graduação que realizaram a prova Enade(2005 a 2017); e utilizam-se itens dicotomizados.\vskip0.3cm
+
+O Modelo Logístico de 3 parâmetros foi desenvolvido por Lord(1980) é representado de acordo com a seguinte equação:
+
+
+\begin{equation}
+    P(U_{ij}=1|\theta_{j})= c_{i}+(1-c_{i})\frac{1}{1+e^{-Da_{i}(\theta_{j}-b_{i})}}
+\end{equation}
+\vskip0.3cm
+
+\begin{itemize}
+\item $U_{ij}$ é uma variável dicotômica que assume os valores 1, quando o indivíduo $j$ responde corretamente o item $i$, ou 0 quando o indivıduo $j$ não responde
+corretamente ao item $i$.
+\item $\theta_{j}$ representa a habilidade (traço latente) do j-ésimo indivíduo.
+\item $b_{i}$ é o parâmetro de \textbf{dificuldade} (ou de posição) do item $i$, medido na mesma
+escala da habilidade.
+\item $a_{i}$ é o parâmetro de \textbf{discriminação} (ou de inclinação) do item $i$, com valor
+proporcional a inclinação da Curva Caracter´ıstica do Item — CCI no
+ponto $b_{i}$.
+\item $c_{i} $é o parâmetro do item que representa a probabilidade de indivíduos
+com baixa habilidade responderem corretamente o item $i$ (muitas vezes
+referido como a probabilidade de acerto casual ou \textbf{chute}.
+\item $D$ é um \textbf{fator de escala}, constante e igual a 1. Utiliza-se o valor 1,7 quando deseja-se que a função logística forneça resultados semelhantes ao da
+função ogiva normal.
+\item $P(U_{ij}=1|\theta_{j})$ é a probabilidade de um indivíduo $j$ com habilidade $\theta_{j}$ responder corretamente o item $i$ e é chamada de Função de Resposta do Item – FRI.
+\end{itemize}
+\vskip0.3cm
+
+
+Itens com valores excessivamente baixos no parâmetro $a_{i}$ indicam um baixo poder de discriminação, isto é, a probabilidade do indivíduo com baixa proficiência responder corretamente ao item é a mesma de um indivíduo com alta proficiência. Em geral, é esperado, conforme a escala utilizada (0,1), que para um item possuir boa discriminação, ele apresente um parâmetro ai maior que 1. Por outro lado, valores baixos para esse parâmetro indicam que o item possui baixo poder de discriminação, em que estudantes com habilidades diferentes têm praticamente a mesma probabilidade de acertar o item (Andrade et al., 2000).\vskip0.3cm
+
+
+Quanto maior o valor de $b{i}$, mais difícil é o item, e vice-versa ou seja, assim, apenas aqueles indivíduos com proficiência mais alta é que terão maior probabilidade de acertá-lo, e é conhecido também como parâmetro de localização, uma vez que é o parâmetro que auxilia a verificação da posição do item na escala de proficiência (Scher et al., 2014).\vskip0.3cm
+
+O seu valor $c_{i}$  representa a quantidade de alternativas que compõem o item. Assim, para um item composto por cinco alternativas, em que a probabilidade teórica de acerto de um indivíduo assinalar qualquer uma das alternativas é 0,2, pode-se estabelecer uma margem de tolerância (acima e abaixo de 0,2), em que a resposta fornecida pelo estudante poderia ser considerada como apenas um acerto casual e, não, o domínio do conhecimento do item. Desse modo, espera-se que o parâmetro ci assume um valor entre 0,1 e 0,3 (Scher et al., 2014).
+
+
+### **Suposições do Modelo da TRI**
+
+Dentre as características ou os pré-requesitos da TRI, duas são de especial relevância: a unidimensionalidade e a independência local, que representam suposições básicas dos modelos mais utilizados na Psicometria.\vskip0.3cm
+
+
+### **A Unidimensionalidade na TRI**
+
+A questão da dimensionalidade de um teste consiste em verificar quantos traços latentes ou tetas está medindo. Todos os modelos de Teoria de Resposta ao Item(TRI), tanto os unidimensionais quanto os multidimensionais, devem fazer esta verificação (PASQUALI, 2013 e 2018).\vskip0.3cm
+
+O comportamento Humano nunca é determinado por um único traço latente, parece claro que
+qualquer desempenho humano é sempre multideterminado ou multimotivado, dado que mais de um traço latente entra na execução de qualquer tarefa (ANDRADE et al., 2000).\vskip0.3cm
+
+
+Contudo para satisfazer o postulado da unidimensionalidade é suficiente admitir que haja uma \textbf{Aptidão Dominante} (um fator ou traço latente dominante) responsável pelo desenpenho num conjunto de itens de um teste (ANDRADE et al., 2000).\vskip0.3cm 
+
+
+Este fator é o que se supõe estar sendo medido pelo teste, ou seja, se houver mais de um traço latente no teste, estão muito correlacionados entre si e, eles se tornam um único fator, tornando a participação dos outros traços latentes pequena e desprezível. (PASQUALI, 2013 e 2018).\vskip0.3cm
+
+
+### **A Indepenência Local**
+
+Este postulado afirma que, mantidas constantes as aptidões que afetam o teste, menos o teta dominante, as respostas dos sujeitos a quaisquer dois itens são estatisticamente independentes. Isso implica que o desenpenho do sujeito num item não afeta o desenpenho em outro item, ou seja, cada item é respondido exclusivamente em função do tamanho do seu teta dominante (PASQUALI, 2013 e 2018). 
+
+
+
+### **Outros Modelos da TRI**
+
+Uma série de outros modelos de TRI tem sido proposta, tais como:
+\vskip0.3cm
+
+\begin{itemize}
+    \item Modelo de Resposta Nominal (BOCK, 1972);
+    \item Modelo de Resposta Graduada (SAMEJIMA, 1969, 1973; KOCH, 1983)
+    \item Modelo Binomial de Tentativas (ANDRICH, 1978, 1982);
+    \item Moelo de Créditos Parciais (MASTERS, 1980, 1982; MASTERS \& WRIGTH, 1984); 
+    \item Modelo Logístico Linear do Traço Latente (FISCHER \& FORMAN, 1982);
+    \item Modelo de Itens Politômicos de Multi-Grupos (MURAKI, 1993);
+    \item Modelo Generalizado de Créditos Parciais (MURAKI \& BOCK, 1997)
+\end{itemize}
+
+
+
+\vskip0.3cm
+Dentre esses modelos de TRI, o mais popular é o de \textbf{Samejima (1969)}, o qual permite analizar itens politômicos de resposta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:::: progress
+:::: {.progress-bar style="width: 100%;"}
+::::
+  ::::
+  
